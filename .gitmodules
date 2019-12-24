@@ -1,0 +1,6 @@
+[submodule "Portfolio-Web"]
+	path = Portfolio-Web
+	url = https://github.com/alex-gagnon/Portfolio-Web
+[submodule "Portfolio-Backend"]
+	path = Portfolio-Backend
+	url = https://github.com/alex-gagnon/Portfolio-Backend
